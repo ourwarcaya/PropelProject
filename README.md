@@ -10,7 +10,7 @@ Describe primary question that data is trying to answer, provide justifications 
 
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset?resource=download
 
-2.Download R.notebook
+2. Download R.notebook
 
 ## Citations
 ### Kaggle Dataset
