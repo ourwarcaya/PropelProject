@@ -11,7 +11,7 @@ Describe primary question that data is trying to answer, provide justifications 
 
 ## Citations
 ### Kaggle Dataset
-The csv file used for data visualizion was acquired from Kaggle, a data science community providing data sets for mahcine learning models and interaction between programming affiliated scientists.
+The csv file used for data visualizion was acquired from Kaggle, a data science community providing data sets for machine learning models and interaction between programming affiliated scientists.
 
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset?resource=download
 
