@@ -1,6 +1,4 @@
 # PropelProject
-Exploring and Visualizing Data with R for UCSF PROPEL program
-
 ### Introduction to the dataset
 Diabetes affects over 37 million in the United states.Understanding the specific demographics of people impacted by diabetes could generate targeted research approaches to curing the disease. The following data manipulation is represents correlation diabetes and medical parameters.
 
