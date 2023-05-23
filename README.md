@@ -1,6 +1,6 @@
 # PropelProject
 ### Diabetes Prevalence
-Diabetes affects over 37 million in the United states.Understanding the specific demographics of people impacted by diabetes could generate targeted research approaches to curing the disease. The following data manipulation is represents correlation diabetes and medical parameters.
+Diabetes affects over 37 million in the United states. Understanding the specific demographics of people impacted by diabetes could generate targeted research approaches to curing the disease. The following data manipulation represents correlation betweeen diabetes and different medical parameters.
 
 
 
