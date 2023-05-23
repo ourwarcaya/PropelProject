@@ -5,7 +5,7 @@ Diabetes affects over 37 million in the United states. Understanding the specifi
 
 
 Describe primary question that data is trying to answer, provide justifications if certain data are removed or adjusted
-### instructions on how to reproduce analysis
+### Instructions on how to reproduce analysis
 1. Download diabetes_prediction_set.csv
 
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset?resource=download
