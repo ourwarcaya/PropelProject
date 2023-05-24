@@ -15,5 +15,8 @@ The csv file used for data visualizion was acquired from Kaggle, a data science 
 
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset?resource=download
 
+This project also utilized the assistance of ChatGPT, a language model developed by OpenAI.
+
+
 
 
