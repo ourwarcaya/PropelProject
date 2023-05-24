@@ -6,15 +6,14 @@ I will be creating plots to visualize the correlation betweend diabetes prevalen
 
 ### Instructions on how to reproduce analysis
 1. Download diabetes_prediction_set.csv
-
-https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset?resource=download
-
-2. Download R.notebook
-
+2. Download R.notebook titled "explanation for data manipulation"
+3. You can now run the R-notebook within R-Studio
 
 ## Citations
 ### Kaggle Dataset
 The csv file used for data visualizion was acquired from Kaggle, a data science community providing data sets for machine learning models and interaction between programming affiliated scientists.
+
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset?resource=download
 
 
 
