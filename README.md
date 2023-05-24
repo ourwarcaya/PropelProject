@@ -2,15 +2,15 @@
 ### Diabetes Prevalence
 Diabetes affects over 37 million in the United states. Understanding the specific demographics of people impacted by diabetes could generate targeted research approaches to curing the disease. The following data manipulation represents correlation betweeen diabetes and different medical parameters.
 
+I will be creating plots to visualize the correlation betweend diabetes prevalence and age, gender, and smoking history
 
-
-Describe primary question that data is trying to answer, provide justifications if certain data are removed or adjusted
 ### Instructions on how to reproduce analysis
 1. Download diabetes_prediction_set.csv
 
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset?resource=download
 
 2. Download R.notebook
+
 
 ## Citations
 ### Kaggle Dataset
