@@ -8,6 +8,7 @@ I will be creating plots to visualize the correlation betweend diabetes prevalen
 1. Download diabetes_prediction_set.csv
 2. Download R.notebook titled "explanation for data manipulation"
 3. You can now run the R-notebook within R-Studio
+4. For a guided interpretation of the data, the mp4 file titled "final draft propel" has a quick interpretation of the data
 
 ## Citations
 ### Kaggle Dataset
